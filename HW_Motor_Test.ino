@@ -9,9 +9,9 @@
   #define MOTOR_R_ENABLE_ON
   #define MOTOR_B_ENABLE_ON
 
-  #define MOTOR_L_SPEED     120
-  #define MOTOR_R_SPEED     120
-  #define MOTOR_B_SPEED     80
+  #define MOTOR_L_SPEED     180
+  #define MOTOR_R_SPEED     180
+  #define MOTOR_B_SPEED     200
 
   #define MOTOR_L_FORWARDS    true
   #define MOTOR_R_FORWARDS    true
